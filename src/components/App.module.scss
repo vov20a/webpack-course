@@ -1,0 +1,23 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+}
+div {
+  h1 {
+    color: #000;
+  }
+}
+.button {
+  background: white;
+
+  padding: 20px;
+  color: $body-color;
+}
+.value {
+  font-size: 100px;
+}
+.icons {
+  display: block;
+  color: #0f0;
+}
